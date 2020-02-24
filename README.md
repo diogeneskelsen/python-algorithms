@@ -1,1 +1,1 @@
-# python-banking-keyboard
+# python-algorithms
